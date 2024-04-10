@@ -94,6 +94,3 @@ suggestions.
 - HashiCorp's Vault [API docs](https://developer.hashicorp.com/vault/api-docs)
 - [Minimal CLI for K/V V2 engine](https://github.com/shahradelahi/vault-cli)
 
-### License
-
-[GPL-3.0](LICENSE) © [Shahrad Elahi](https://github.com/shahradelahi)
